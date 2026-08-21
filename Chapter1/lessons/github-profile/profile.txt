@@ -1,6 +1,7 @@
-Name:
-Grade:
-Favorite Programming Language:
-Favorite Thing About Computer Science:
-Something I Am Good At:
-Something I Want To Learn:
+Name: Vinesh Konchada
+Grade:10th
+Favorite Programming Language:Python
+Favorite Thing About Computer Science: The diversity of the different languages and how they are each different and good at different things
+Something I Am Good At: I am good at paying attention
+Something I Want To Learn: I want to learn how to accurately use the Java coding language to its fullest potential
+Hi!!!!
