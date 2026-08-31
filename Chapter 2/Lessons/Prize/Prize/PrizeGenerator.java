@@ -45,5 +45,6 @@ public class PrizeGenerator
         System.out.println("-----------------------------------------------------------");
         System.out.printf("%-25s %s%n", "Final Balance", money.format(finalBalance));
         System.out.println("=======================================================");
+        
     }
 }
