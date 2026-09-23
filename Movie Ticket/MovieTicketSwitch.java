@@ -77,6 +77,18 @@ public class MovieTicketSwitch
         }
         System.out.println("Total Due: " + money.format(ticketPrice));
         
+        
+        switch(age){
+            case(9):
+            System.out.println("Your are a Freshman!");
+            case(10):
+            System.out.println("Your are a Sophmore like me!");
+            case(11):
+            System.out.println("Your are a Junior!");
+            case(12):
+            System.out.println("Your are a Senior!");
+        }
+        
     } 
     }
         
